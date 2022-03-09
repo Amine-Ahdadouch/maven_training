@@ -10,4 +10,4 @@ public class SampleTest extends Sample{
         Sample sample = new Sample();
         Assertions.assertEquals(sample.fact(n), 6);
     }
-}
+}  
